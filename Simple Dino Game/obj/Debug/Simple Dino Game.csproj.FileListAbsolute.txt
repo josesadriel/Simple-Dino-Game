@@ -1,0 +1,7 @@
+C:\Users\Joses Adriel\source\repos\Simple Dino Game\Simple Dino Game\bin\Debug\Simple Dino Game.exe.config
+C:\Users\Joses Adriel\source\repos\Simple Dino Game\Simple Dino Game\bin\Debug\Simple Dino Game.exe
+C:\Users\Joses Adriel\source\repos\Simple Dino Game\Simple Dino Game\bin\Debug\Simple Dino Game.pdb
+C:\Users\Joses Adriel\source\repos\Simple Dino Game\Simple Dino Game\obj\Debug\Simple Dino Game.csprojAssemblyReference.cache
+C:\Users\Joses Adriel\source\repos\Simple Dino Game\Simple Dino Game\obj\Debug\Simple Dino Game.csproj.CoreCompileInputs.cache
+C:\Users\Joses Adriel\source\repos\Simple Dino Game\Simple Dino Game\obj\Debug\Simple Dino Game.exe
+C:\Users\Joses Adriel\source\repos\Simple Dino Game\Simple Dino Game\obj\Debug\Simple Dino Game.pdb
